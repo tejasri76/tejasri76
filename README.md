@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Static Badge](https://img.shields.io/badge/java)
+https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
