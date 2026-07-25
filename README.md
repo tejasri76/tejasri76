@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Static Badge](https://img.shields.io/badge/java)
 https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+![Static Badge](https://img.shields.io/badge/java?style=flat-square&logoColor=pink&labelColor=blue&color=yellow)
