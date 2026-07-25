@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
 ![Static Badge](https://img.shields.io/badge/java?style=flat-square&logoColor=pink&labelColor=blue&color=yellow)
 ![Static Badge](https://img.shields.io/badge/java?style=for-the-badge&logo=java&logoColor=orange&label=python&labelColor=blue&color=yellow)
+![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=blue)
